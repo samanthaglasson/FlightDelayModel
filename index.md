@@ -54,25 +54,10 @@
 <hr>
 
 ## Technical Skills
-**Proficient In Front & Backend Development With Key Languages:**
-
-
-* HTML/CSS
-* Java
-* JavaScript
-* TypeScript
-* SQL
-
-**Technology Stack:**
-
-
-* Spring Boot
-* Maven
+* Python
 * PostgreSQL
-* MySQL
-* JUnit Testing
-* Angular
-* Vue
+
+
 
 
 You can use the [editor on GitHub](https://github.com/samanthaglasson/FlightDelayModel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
