@@ -1,61 +1,43 @@
-## Portfolio of Samantha Glasson
+## Project aim
+The purpose of this project is to 
+
+![image]()
+
+## Benefits of predicting delays
+ 
+
+## Connecting Python and pgAdmin
 
 
-## Contact Information
-#### **Email:** sglasson@talentpath.com
+## Data Preprocessing
+**Dataset 1**
+ - Addressing nullls...
+ - 
+**Dataset 2**
+- etc...
 
+![image]()
 
-#### **LinkedIn:** [https://www.linkedin.com/in/samanthaglasson/](https://www.linkedin.com/in/samanthaglasson/)
+## Visualizing Data
+### Chart 
 
-<hr>
+![image]()
 
-## About
-
-#### abc
-
-<hr>
-
-## Projects
-### p1
-* *Description:* abc
-* *Technologies:* etc... Spring Boot API, JUnit, JPA, Java, MySQL, VueJS
+Chart description....
 
 
 
-### Project
-* *Description:* abc 
-* *Technologies:*  
+## Model Building
+### Decision Tree Classifier 
+
+![image]()
+
+### Steps to improve model
+
+![image]()
 
 
-<hr>
-
-## Work Experience
-
-### Talent Path - Junior Data Science Engineer & Analyst 
-* *Dates:* June 2021 - Present
-* *Description:* 
-
-### Auberge Resorts Collection - Revenue Management & Sales  
-* *Dates:* March 2019 - June 2021
-* *Description:* 
-
-<hr>
-
-## Education
-
-### Chapman University 
-* Business Administration, Bachelor of Science
-* Environmental Studies, Minor
-* Applied Statistical Analysis, Certificate
-
-### Talent Path Data Science & Engineering 
-* Certificate of Completion, July 2021
-
-<hr>
-
-## Technical Skills
-* Python
-* PostgreSQL
+## Next Steps:
 
 
 
