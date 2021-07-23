@@ -1,6 +1,79 @@
 ## Portfolio of Samantha Glasson
 
 
+## Contact Information
+#### **Email:** sglasson@talentpath.com
+
+
+#### **LinkedIn:** [https://www.linkedin.com/in/samanthaglasson/](https://www.linkedin.com/in/samanthaglasson/)
+
+<hr>
+
+## About
+
+#### abc
+
+<hr>
+
+## Projects
+### p1
+* *Description:* abc
+* *Technologies:* etc... Spring Boot API, JUnit, JPA, Java, MySQL, VueJS
+
+
+
+### Project
+* *Description:* abc 
+* *Technologies:*  
+
+
+<hr>
+
+## Work Experience
+
+### Talent Path - Junior Data Science Engineer & Analyst 
+* *Dates:* June 2021 - Present
+* *Description:* 
+
+### Auberge Resorts Collection - Revenue Management & Sales  
+* *Dates:* March 2019 - June 2021
+* *Description:* 
+
+<hr>
+
+## Education
+
+### Chapman University 
+* Business Administration, Bachelor of Science
+* Environmental Studies, Minor
+* Applied Statistical Analysis, Certificate
+
+### Talent Path Data Science & Engineering 
+* Certificate of Completion, July 2021
+
+<hr>
+
+## Technical Skills
+**Proficient In Front & Backend Development With Key Languages:**
+
+
+* HTML/CSS
+* Java
+* JavaScript
+* TypeScript
+* SQL
+
+**Technology Stack:**
+
+
+* Spring Boot
+* Maven
+* PostgreSQL
+* MySQL
+* JUnit Testing
+* Angular
+* Vue
+
 
 You can use the [editor on GitHub](https://github.com/samanthaglasson/FlightDelayModel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
