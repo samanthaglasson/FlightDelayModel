@@ -1,9 +1,9 @@
-## Project aim
+## Project Aim
 The purpose of this project is to 
 
 ![image]()
 
-## Benefits of predicting delays
+## Benefits of Predicting Delays
  
 
 ## Connecting Python and pgAdmin
