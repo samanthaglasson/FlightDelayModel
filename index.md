@@ -11,22 +11,29 @@ When airlines are able to predict delays in advance they will have more time to 
 - Currently predicting with 75% accuracy. 
 
 insert link here
+pull up actual 2021 flight info
+have values in model alreayd
 
 
-
-## Model Building:
-### Connecting Python and pgAdmin
-![image]()
-
+## Model Construction:
 
 ### Data Preprocessing
-**Dataset 1**
- - Addressing nullls...
- - 
-**Dataset 2**
-- etc...
+![image]()  graph with flight routes, 
+- Exploratory data analysis and data preprocessing performed in postgreSQL:
+                      - Imputed values for some nulls in ARRIVAL_DELAY using SCHEDULED_ARRIVAL - ARRIVAL_TIME.
+                      - Dropped 92,513 rows (or 1.6% of the dataset) containing nulls in all 6 columns.
+                      - Replaced the remaining 12,558 nulls by imputing AIR_TIME and ELAPSED_TIME based on data in other columns. 
+                      - Inserted values into LATITUDE and LONGITUDE columns for the airports with nulls.
+                      - Joined data tables (flight data, airport data and holiday season calendar. 
+                      - Dropped data where the flight route had less than 700 flights.
+- SQLAlchemy was used to import the joined data from pgAdmin into Jupyter Notebook. 
 
-![image]()
+![image]()  corr heatmap, result column code, graph of delays by time (arrival_delay)
+- preprocessing in j nb
+                      - Dropped _
+                      - Created result15 column...
+
+
 
 ### Visualizing Data
 #### Chart 
@@ -40,7 +47,7 @@ Chart description....
 ### Model Building
 #### Decision Tree Classifier 
 
-![image]()
+![image]() graph of imablanced data
 
 #### Steps to improve model
 
@@ -50,6 +57,12 @@ Chart description....
 ## Next Steps:
 - Data from other years, data for reasons of delays, etc
 - Given more time I would implement data based on the weather averages at each airport based on the time of year
+
+make sure to annotate! address underscores in title, could include graph of distibutions of variables
+
+
+## Acknowledgements:
+
 
 
 
