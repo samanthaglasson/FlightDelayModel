@@ -19,7 +19,8 @@ have values in model alreayd
 
 ### Data Preprocessing
 <p align="center">
-![image](https://user-images.githubusercontent.com/87782980/126912614-68606abf-e104-48c5-84a7-b577f4a8dd29.png)
+  <img width="400" height="275" src="https://user-images.githubusercontent.com/87782980/126912614-68606abf-e104-48c5-84a7-b577f4a8dd29.png">
+</p>
 
 Exploratory data analysis and data preprocessing performed in postgreSQL:
 
