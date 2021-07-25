@@ -18,7 +18,7 @@ have values in model alreayd
 ## Model Construction:
 
 ### Data Preprocessing
-![image]()  ODC chart, 
+![image](http://localhost:8888/view/Documents/Capstones/Flight%20Data%20Capstone/ODC_chart.png)  ODC chart, 
 
 Exploratory data analysis and data preprocessing performed in postgreSQL:
 
