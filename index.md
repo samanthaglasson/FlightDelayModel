@@ -1,15 +1,25 @@
-## Project Aim
-The purpose of this project is to 
+# Predicting Flight Delays
 
+Prior to the 2020 coronavirus pandemic, the United States airline industry was a steadily growing industry earning a revenue stream of $248 billion in 2019 alone. Millions more Americans were boarding planes each year; in 2019 811 million people boarded a US plane. In 2020, the airline industry suffered along with many others. Now in 2021, as air travel begins to pick up again, airlines need to regain the trust of travelers as being the best, most reliable airline. Now more than ever it is important that United States airline companies operate effectively by getting travelers from point A to point B with minimal delays.
+
+When airlines are able to predict delays in advance they will have more time to come up with a solution for their travelers, such as buffering the next flight's departure time or having an extra team and aircraft available at airports with an increased chance of delays. The model below is a tool designed for airline companies to use when building flight schedules in order to predict and plan for delays. 
+
+
+## Flight Delays Predictor ##
+- A model designed to predict if a commercial plane will be delayed.
+- Based on origin and destination airport information, the aircraft, flight times and holiday season. 
+- Currently predicting with 75% accuracy. 
+
+insert link here
+
+
+
+## Model Building:
+### Connecting Python and pgAdmin
 ![image]()
 
-## Benefits of Predicting Delays
- 
 
-## Connecting Python and pgAdmin
-
-
-## Data Preprocessing
+### Data Preprocessing
 **Dataset 1**
  - Addressing nullls...
  - 
@@ -18,8 +28,8 @@ The purpose of this project is to
 
 ![image]()
 
-## Visualizing Data
-### Chart 
+### Visualizing Data
+#### Chart 
 
 ![image]()
 
@@ -27,18 +37,19 @@ Chart description....
 
 
 
-## Model Building
-### Decision Tree Classifier 
+### Model Building
+#### Decision Tree Classifier 
 
 ![image]()
 
-### Steps to improve model
+#### Steps to improve model
 
 ![image]()
 
 
 ## Next Steps:
-
+- Data from other years, data for reasons of delays, etc
+- Given more time I would implement data based on the weather averages at each airport based on the time of year
 
 
 
