@@ -37,12 +37,13 @@ Exploratory data analysis and data preprocessing performed in postgreSQL:
  ![image](https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png) ![image](https://user-images.githubusercontent.com/87782980/126913244-ecfb0826-04b1-4c45-9159-d997f357aafa.png)
 
  
- ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)
+![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)
 
 
 ![image](https://user-images.githubusercontent.com/87782980/126913308-79cb758f-a31d-4bed-80ed-6f95cbab44be.png)
 
-
+ ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)
+ 
 Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 
             - Dropped _
