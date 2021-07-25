@@ -19,7 +19,7 @@ have values in model alreayd
 
 ### Data Preprocessing
 <p align="center">
-  <img width="400" height="275" src="https://user-images.githubusercontent.com/87782980/126912614-68606abf-e104-48c5-84a7-b577f4a8dd29.png">
+  <img width="400" height="275" src="https://user-images.githubusercontent.com/87782980/126913160-c034aa5f-d6bf-4bd6-a62c-a0c2c24a2852.png">
 </p>
 
 Exploratory data analysis and data preprocessing performed in postgreSQL:
@@ -32,14 +32,23 @@ Exploratory data analysis and data preprocessing performed in postgreSQL:
              - Dropped data where the flight route had less than 700 flights.
              - Used SQLAlchemy to import the joined data from pgAdmin into Jupyter Notebook. 
 
-![image]()  corr heatmap, result column code, graph of delays by time (arrival_delay)
+
+
+ ![image](https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png) ![image](https://user-images.githubusercontent.com/87782980/126913244-ecfb0826-04b1-4c45-9159-d997f357aafa.png)
+
+ 
+ ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)
+
+
+![image](https://user-images.githubusercontent.com/87782980/126913308-79cb758f-a31d-4bed-80ed-6f95cbab44be.png)
+
 
 Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 
             - Dropped _
             - Created result15 column...
 
-
+visual, result column code 
 
 ### Visualizing Data
 #### Chart 
@@ -59,6 +68,11 @@ Chart description....
 
 ![image]()
 
+
+![image](https://user-images.githubusercontent.com/87782980/126912898-5c03a885-aeb8-4e39-ab89-9f656b9760c9.png)
+
+
+![image](https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png)
 
 ## Next Steps:
 - Data from other years, data for reasons of delays, etc
