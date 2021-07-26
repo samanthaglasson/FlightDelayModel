@@ -34,15 +34,10 @@ Exploratory data analysis and data preprocessing performed in postgreSQL:
 
 
 
- ![image](https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png) ![image](https://user-images.githubusercontent.com/87782980/126913244-ecfb0826-04b1-4c45-9159-d997f357aafa.png)
 
- 
-![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)
-
-
-![image](https://user-images.githubusercontent.com/87782980/126913308-79cb758f-a31d-4bed-80ed-6f95cbab44be.png)
-
- ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)
+<p align="center">
+  <img width="400" height="325" src="https://user-images.githubusercontent.com/87782980/126994078-e4798bff-b38d-4bcf-839a-1bf8619adeb7.png">
+</p>
  
 Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 
@@ -53,12 +48,16 @@ visual, result column code
 
 ### Visualizing Data
 #### Chart 
-
+ ![image](https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png)
+ 
 ![image](http://localhost:8888/view/Documents/Capstones/Flight%20Data%20Capstone/ODC_chart.png)
 
 Chart description....
 
 
+![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)  ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)
+
+![image](https://user-images.githubusercontent.com/87782980/126913308-79cb758f-a31d-4bed-80ed-6f95cbab44be.png)  ![image](https://user-images.githubusercontent.com/87782980/126913244-ecfb0826-04b1-4c45-9159-d997f357aafa.png)
 
 ### Model Building
 #### Decision Tree Classifier 
