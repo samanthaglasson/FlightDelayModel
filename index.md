@@ -124,14 +124,14 @@ As you can see, these steps were successful in balancing the data.
 
 
 ## Next Steps:
-Given more time I would like to implement data based on the weather averages at each airport based on the time of year. I would also like to review additional flight data from other years and build a model that takes into account other various factors or reasons for delays. With this data we may be able to construct a model that not only predicts delays, but also determines the duration of the delay. 
+Moving forward, I would like to implement data based on the weather averages at each airport based on the time of year. I would also like to review additional flight data from other years and build a model that takes into account other various factors or reasons for delays. With this data we may be able to construct a model that not only predicts delays, but also determines the duration of the delay. 
 
 
 
 ## Acknowledgements:
-Oswald Vinueza & Connor Fryar for consistent guidance and encouragement as well as their willingness to run my models on their computers. 
+Oswald Vinueza & Connor Fryar for consistent guidance and encouragement as well as their willingness to run my code on their computers. 
 Drew Jones for his patience and constructive feedback. 
-Justin Moon for guidance and brainstorming at a vital turning point in my project. 
+
 
 
 
