@@ -54,7 +54,13 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png">
 </p>  
 
-![image](https://user-images.githubusercontent.com/87782980/127028934-d873b913-132c-4640-9af7-48b6d8ce5f34.png) ![image](https://user-images.githubusercontent.com/87782980/127028874-8ffd684d-b221-492a-9037-85e0860b7848.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127028934-d873b913-132c-4640-9af7-48b6d8ce5f34.png">
+</p>  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127028874-8ffd684d-b221-492a-9037-85e0860b7848.png">
+</p>  
 
 
 
