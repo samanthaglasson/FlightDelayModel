@@ -37,42 +37,74 @@ Exploratory data analysis and data preprocessing performed in postgreSQL:
 
 <p align="center">
   <img width="400" height="325" src="https://user-images.githubusercontent.com/87782980/126994078-e4798bff-b38d-4bcf-839a-1bf8619adeb7.png">
-</p>
+</p> 
+
+<p align="center">
+  <img width="200" height="100" src="https://user-images.githubusercontent.com/87782980/126998135-4015be51-4e3d-45e0-ace2-677000e29379.png">
+</p> 
+
  
 Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 
-            - Dropped _
-            - Created result15 column...
-
-visual, result column code 
+            - Encoded all categorical data using LabelEncoder. 
+            - Dropped redundant columns. 
+            - Created the target variable column, result15.
+            
 
 ### Visualizing Data
-#### Chart 
- ![image](https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png)
- 
-![image](http://localhost:8888/view/Documents/Capstones/Flight%20Data%20Capstone/ODC_chart.png)
 
-Chart description....
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png">
+</p>  
 
 
 ![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)  ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)
 
-![image](https://user-images.githubusercontent.com/87782980/126913308-79cb758f-a31d-4bed-80ed-6f95cbab44be.png)  ![image](https://user-images.githubusercontent.com/87782980/126913244-ecfb0826-04b1-4c45-9159-d997f357aafa.png)
+(additional feature charts here) 
+
 
 ### Model Building
 #### Decision Tree Classifier 
 
-![image]() graph of imablanced data
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127001252-bb303241-eb97-467f-86cd-82fe2a400def.png">
+</p> 
+
+<p align="center">
+  <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127000720-ea2c7b54-3029-4ef1-a93c-aac239b07154.png">
+</p>
+
+
+
+
+
 
 #### Steps to improve model
 
-![image]()
+To improve te model....
 
+
+As you can see....
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127002784-6361bff0-2eac-44e4-8d16-d20794b8f94b.png">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
+</p>
+
+
+<p align="center">
+  <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
+</p>
+
+The model is now operating at 
 
 ![image](https://user-images.githubusercontent.com/87782980/126912898-5c03a885-aeb8-4e39-ab89-9f656b9760c9.png)
 
 
-![image](https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png)
+
 
 ## Next Steps:
 - Data from other years, data for reasons of delays, etc
