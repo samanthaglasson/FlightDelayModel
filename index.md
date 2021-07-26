@@ -4,8 +4,8 @@ Prior to the 2020 coronavirus pandemic, the United States airline industry was a
 
 When airlines are able to predict delays in advance they will have more time to come up with a solution for their travelers, such as buffering the next flight's departure time or having an extra team and aircraft available at airports with an increased chance of delays. The model below is a tool designed for airline companies to use when building flight schedules in order to predict and plan for delays. 
 
-
-
+<br/>
+<br/>
 
 ## Flight Delays Predictor ##
 - A model designed to predict if a commercial plane will be delayed.
@@ -16,9 +16,8 @@ insert link here
 pull up actual 2021 flight info
 have values in model alreayd
 
-
-
-
+<br/>
+<br/>
 
 ## Model Construction:
 
@@ -77,8 +76,6 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 <p align="center">
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127000720-ea2c7b54-3029-4ef1-a93c-aac239b07154.png">
 </p>
-
-
 
 
 
