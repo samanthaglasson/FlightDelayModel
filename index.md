@@ -54,8 +54,12 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png">
 </p>  
 
+![image](https://user-images.githubusercontent.com/87782980/127028934-d873b913-132c-4640-9af7-48b6d8ce5f34.png) ![image](https://user-images.githubusercontent.com/87782980/127028874-8ffd684d-b221-492a-9037-85e0860b7848.png)
 
-![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)  ![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)
+![image](https://user-images.githubusercontent.com/87782980/126913191-209ede74-67d1-4deb-890a-209b2f76a0c5.png)  
+
+
+![image](https://user-images.githubusercontent.com/87782980/126913180-5ecc81ff-80f2-4c53-ad58-4c4d00dadbe2.png)
 
 (additional feature charts here) 
 
@@ -89,11 +93,14 @@ As you can see, these steps were successful in balancing the data.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127002784-6361bff0-2eac-44e4-8d16-d20794b8f94b.png">
-</p>
+</p> ![image]()
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
 </p>
+
+
 
 
 <p align="center">
