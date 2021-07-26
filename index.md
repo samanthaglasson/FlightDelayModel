@@ -23,14 +23,13 @@ have values in model alreayd
 </p>
 
 Exploratory data analysis and data preprocessing performed in postgreSQL:
-
-             - Imputed values for some nulls in ARRIVAL_DELAY using SCHEDULED_ARRIVAL - ARRIVAL_TIME.
-             - Dropped 92,513 rows (or 1.6% of the dataset) containing nulls in all 6 columns.
-             - Replaced the remaining 12,558 nulls by imputing AIR_TIME and ELAPSED_TIME based on data in other columns. 
-             - Inserted values into LATITUDE and LONGITUDE columns for the airports with nulls.
-             - Joined data tables (flight data, airport data and holiday season calendar). 
-             - Dropped data where the flight route had less than 700 flights.
-             - Used SQLAlchemy to import the joined data from pgAdmin into Jupyter Notebook. 
+- Imputed values for some nulls in ARRIVAL_DELAY using SCHEDULED_ARRIVAL - ARRIVAL_TIME.
+- Dropped 92,513 rows (or 1.6% of the dataset) containing nulls in all 6 columns.
+- Replaced the remaining 12,558 nulls by imputing AIR_TIME and ELAPSED_TIME based on data in other columns. 
+- Inserted values into LATITUDE and LONGITUDE columns for the airports with nulls.
+- Joined data tables (flight data, airport data and holiday season calendar). 
+- Dropped data where the flight route had less than 700 flights.
+- Used SQLAlchemy to import the joined data from pgAdmin into Jupyter Notebook. 
 
 
 
