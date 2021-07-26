@@ -4,20 +4,14 @@ Prior to the 2020 coronavirus pandemic, the United States airline industry was a
 
 When airlines are able to predict delays in advance they will have more time to come up with a solution for their travelers, such as buffering the next flight's departure time or having an extra team and aircraft available at airports with an increased chance of delays. The model below is a tool designed for airline companies to use when building flight schedules in order to predict and plan for delays. 
 
-<br/>
-<br/>
+
 
 ## Flight Delays Predictor ##
 - A model designed to predict if a commercial plane will be delayed.
 - Based on origin and destination airport information, the aircraft, flight times and holiday season. 
 - Currently predicting with 75% accuracy. 
 
-insert link here
-pull up actual 2021 flight info
-have values in model alreayd
 
-<br/>
-<br/>
 
 ## Model Construction:
 
@@ -73,19 +67,25 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/127001252-bb303241-eb97-467f-86cd-82fe2a400def.png">
 </p> 
 
+
 <p align="center">
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127000720-ea2c7b54-3029-4ef1-a93c-aac239b07154.png">
 </p>
 
+(graph of  feature importance)
 
+At first, the model was predicting a moderately high accuracy, however, the data was very imbalanced. The model also carried features with no siginificant importance, but these were dropped to improve the model's accuracy. 
 
 
 #### Steps to improve model
 
-To improve te model....
+To address the imbalance of data, a sample of the majority class - on time data - was randomly taken. Additionally, a pipeline was constructed using Synthestic Minority Oversampling Technique, SMOTE, to duplicate examples within in the minority class - delayed data - and randomly dropped rows in the majority class. 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127027240-0a71533a-7ad0-4624-b186-20fee4b99962.png">
+</p>
 
-As you can see....
+As you can see, these steps were successful in balancing the data. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127002784-6361bff0-2eac-44e4-8d16-d20794b8f94b.png">
@@ -108,40 +108,14 @@ The model is now operating at
 
 
 ## Next Steps:
-- Data from other years, data for reasons of delays, etc
-- Given more time I would implement data based on the weather averages at each airport based on the time of year
+Given more time I would like to implement data based on the weather averages at each airport based on the time of year. I would also like to review additional flight data from other years and build a model that takes into account other various factors or reasons for delays. With this data we may be able to construct a model that not only predicts delays, but also determines the duration of the delay. 
 
-make sure to annotate! address underscores in title, could include graph of distibutions of variables
 
 
 ## Acknowledgements:
+Oswald Vinueza & Connor Fryar for consistent guidance and encouragement as well as their willingness to run my models on their computers. 
+Drew Jones for his patience and constructive feedback. 
+Justin Moon for guidance and brainstorming at a vital turning point in my project. 
 
 
-
-
-You can use the [editor on GitHub](https://github.com/samanthaglasson/FlightDelayModel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-## Samanntha 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
