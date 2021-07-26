@@ -114,7 +114,9 @@ As you can see, these steps were successful in balancing the data.
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
 </p>
 
-The model is now operating at 
+<p align="center">
+  <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127030761-e06ac2e7-251d-41a2-8d7e-7b3f17e4071c.png">
+</p>
 
 ![image](https://user-images.githubusercontent.com/87782980/126912898-5c03a885-aeb8-4e39-ab89-9f656b9760c9.png)
 
