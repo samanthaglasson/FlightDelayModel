@@ -72,7 +72,7 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
  <div align="center"> Correlation Matrix </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87782980/127198321-9549dccb-a183-4ade-8028-1d9ef874f169.png">
+  <img src="https://user-images.githubusercontent.com/87782980/127201666-6c62a63c-c779-4bac-a822-7f517d3d43b4.png">
 </p>  
 
 
