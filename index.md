@@ -124,13 +124,14 @@ As you can see, these steps were successful in balancing the data.
 
  <div align="center"> Feature Importances </div>
 <p align="center">
-  <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127233296-c6ea2620-eb52-479b-aca5-61efa5c42a2f.png">
+  <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127233388-22aa2f9e-e5be-44d7-a2e3-c8a8ed83ae3d.png">
 </p>
 
 
  <div align="center"> Decision Tree </div>
  
 ![image](https://user-images.githubusercontent.com/87782980/126912898-5c03a885-aeb8-4e39-ab89-9f656b9760c9.png)
+
 
 
 
