@@ -16,6 +16,8 @@ When airlines are able to predict delays in advance they will have more time to 
 ## Model Construction:
 
 ### Data Preprocessing
+ <div align="center"> Flights by Route </div>
+
 <p align="center">
   <img width="400" height="275" src="https://user-images.githubusercontent.com/87782980/126913160-c034aa5f-d6bf-4bd6-a62c-a0c2c24a2852.png">
 </p>
@@ -30,7 +32,7 @@ Exploratory data analysis and data preprocessing performed in postgreSQL:
 - Used SQLAlchemy to import the joined data from pgAdmin into Jupyter Notebook. 
 
 
-
+ <div align="center"> Flight Delays </div>
 
 <p align="center">
   <img width="400" height="325" src="https://user-images.githubusercontent.com/87782980/126994078-e4798bff-b38d-4bcf-839a-1bf8619adeb7.png">
@@ -50,17 +52,24 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 
 ### Visualizing Data
 
+ <div align="center"> Arrival Time and Scheduled Arrival Time </div>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87782980/126912942-0c7c4a89-4713-4277-a50b-2628cef4f2b3.png">
+  <img src="https://user-images.githubusercontent.com/87782980/127199046-01fe9524-072e-46f2-8527-3d441a524cca.png">
 </p>  
+
+ <div align="center"> Flights by Origin Airport  </div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127028934-d873b913-132c-4640-9af7-48b6d8ce5f34.png">
 </p>  
 
+ <div align="center"> Flights by Destination Airport  </div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127028874-8ffd684d-b221-492a-9037-85e0860b7848.png">
 </p>  
+
+ <div align="center"> Correlation Matrix </div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127198321-9549dccb-a183-4ade-8028-1d9ef874f169.png">
@@ -75,12 +84,12 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/127001252-bb303241-eb97-467f-86cd-82fe2a400def.png">
 </p> 
 
-
+ <div align="center"> On Time and Delayed Flights </div>
+ 
 <p align="center">
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127000720-ea2c7b54-3029-4ef1-a93c-aac239b07154.png">
 </p>
 
-(graph of  feature importance)
 
 At first, the model was predicting a moderately high accuracy, however, the data was very imbalanced. The model also carried features with no siginificant importance, but these were dropped to improve the model's accuracy. 
 
@@ -97,7 +106,7 @@ As you can see, these steps were successful in balancing the data.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127002784-6361bff0-2eac-44e4-8d16-d20794b8f94b.png">
-</p> ![image]()
+</p> 
 
 
 <p align="center">
@@ -111,10 +120,13 @@ As you can see, these steps were successful in balancing the data.
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
 </p>
 
+ <div align="center"> Feature Importances </div>
 <p align="center">
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127030761-e06ac2e7-251d-41a2-8d7e-7b3f17e4071c.png">
 </p>
 
+ <div align="center"> Decision Tree </div>
+ 
 ![image](https://user-images.githubusercontent.com/87782980/126912898-5c03a885-aeb8-4e39-ab89-9f656b9760c9.png)
 
 
