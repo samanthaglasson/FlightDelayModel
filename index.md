@@ -49,6 +49,7 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
             - Dropped redundant columns. 
             - Created the target variable column, result15.
             
+<br/><br/>
 
 ### Visualizing Data
 
@@ -56,6 +57,8 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127199046-01fe9524-072e-46f2-8527-3d441a524cca.png">
 </p>  
+
+<br/>
 
  <div align="center"> Flights by Origin Airport  </div>
 
@@ -69,6 +72,8 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/127028874-8ffd684d-b221-492a-9037-85e0860b7848.png">
 </p>  
 
+<br/>
+
  <div align="center"> Correlation Matrix </div>
 
 <p align="center">
@@ -76,7 +81,7 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 </p>  
 
 
-
+<br/><br/><br/><br/>
 
 ### Model Building
 #### Decision Tree Classifier 
@@ -85,11 +90,15 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/127001252-bb303241-eb97-467f-86cd-82fe2a400def.png">
 </p> 
 
+<br/><br/>
+
  <div align="center"> On Time and Delayed Flights </div>
  
 <p align="center">
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127000720-ea2c7b54-3029-4ef1-a93c-aac239b07154.png">
 </p>
+
+<br/>
 
 
 At first, the model was predicting a moderately high accuracy, however, the data was very imbalanced. The model also carried features with no siginificant importance, but these were dropped to improve the model's accuracy. 
@@ -103,11 +112,15 @@ To address the imbalance of data, a sample of the majority class - on time data 
   <img src="https://user-images.githubusercontent.com/87782980/127027240-0a71533a-7ad0-4624-b186-20fee4b99962.png">
 </p>
 
+<br/>
+
 As you can see, these steps were successful in balancing the data. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127002784-6361bff0-2eac-44e4-8d16-d20794b8f94b.png">
 </p> 
+
+<br/><br/>
 
  <div align="center"> ROC Curve </div>
  
@@ -115,6 +128,7 @@ As you can see, these steps were successful in balancing the data.
   <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
 </p>
 
+<br/><br/>
 
  <div align="center"> Confusion Matrix </div>
 
@@ -122,17 +136,20 @@ As you can see, these steps were successful in balancing the data.
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
 </p>
 
+<br/><br/>
+
  <div align="center"> Feature Importances </div>
 <p align="center">
-  <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/127233388-22aa2f9e-e5be-44d7-a2e3-c8a8ed83ae3d.png">
+  <img src="https://user-images.githubusercontent.com/87782980/127233388-22aa2f9e-e5be-44d7-a2e3-c8a8ed83ae3d.png">
 </p>
 
+<br/><br/>
 
  <div align="center"> Decision Tree </div>
  
 ![image](https://user-images.githubusercontent.com/87782980/126912898-5c03a885-aeb8-4e39-ab89-9f656b9760c9.png)
 
-
+<br/><br/>
 
 
 
