@@ -63,12 +63,9 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 </p>  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87782980/127033101-86c5c1bb-00e4-47ca-9084-9bd68b8ee991.png">
+  <img src="https://user-images.githubusercontent.com/87782980/127198321-9549dccb-a183-4ade-8028-1d9ef874f169.png">
 </p>  
 
-
-
-(additional feature charts here) 
 
 
 ### Model Building
