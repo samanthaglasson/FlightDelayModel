@@ -109,13 +109,14 @@ As you can see, these steps were successful in balancing the data.
   <img src="https://user-images.githubusercontent.com/87782980/127002784-6361bff0-2eac-44e4-8d16-d20794b8f94b.png">
 </p> 
 
-
+ <div align="center"> ROC Curve </div>
+ 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
 </p>
 
 
-
+ <div align="center"> Confusion Matrix </div>
 
 <p align="center">
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
