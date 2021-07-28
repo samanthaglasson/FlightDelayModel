@@ -11,6 +11,8 @@ When airlines are able to predict delays in advance they will have more time to 
 - Based on origin and destination airport information, the aircraft, flight times and holiday season. 
 - Currently predicting with 75% accuracy. 
 
+[View Model](https://flightdelays2015.herokuapp.com/)
+
 <br/><br/>
 
 ## Model Construction:
