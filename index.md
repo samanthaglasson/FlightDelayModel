@@ -101,12 +101,12 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 <br/>
 
 
-At first, the model was predicting a moderately high accuracy, however, the data was very imbalanced. The model also carried features with no siginificant importance, but these were dropped to improve the model's accuracy. 
+At first, the model was predicting a moderately high accuracy, however, the data was very imbalanced. The model also carried features with no significant importance, but these were dropped to improve the model's accuracy. 
 
 <br/><br/>
 #### Steps to improve model
 
-To address the imbalance of data, a sample of the majority class - on time data - was randomly taken. Additionally, a pipeline was constructed using Synthestic Minority Oversampling Technique, SMOTE, to duplicate examples within the minority class - delayed data - and randomly dropped rows in the majority class. 
+To address the imbalance of data, a sample of the majority class - on time data - was randomly taken. Additionally, a pipeline was constructed using Synthetic Minority Oversampling Technique, SMOTE, to duplicate examples within the minority class - delayed data - and randomly dropped rows in the majority class. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127027240-0a71533a-7ad0-4624-b186-20fee4b99962.png">
