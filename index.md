@@ -90,6 +90,8 @@ Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
   <img src="https://user-images.githubusercontent.com/87782980/127001252-bb303241-eb97-467f-86cd-82fe2a400def.png">
 </p> 
 
+The classification reports displays the model's precision, recall, F1 and suppport scores. Precision tells us what percent of the model's predictions were correct and recall discloses what percent of the positive samples (delays) were caught/predicted. 
+
 <br/><br/>
 
  <div align="center"> On Time and Delayed Flights </div>
@@ -128,7 +130,7 @@ As you can see, these steps were successful in balancing the data.
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
 </p>
 
-The confusion matrix summarizes the percentage of correct and incorrect predictions the model has made by class. Roughly 27% of delayed flights are being classified as 'on time', reflecting a Type I error (false positives). Over 22% of on time flights are being classified as 'delayed', a Type II error (false negatives). Over 77% of the on time flights are predicted correctly (true negatives) and almost 73% of the flights are correctly predicted delayed (true positives). 
+The confusion matrix summarizes the percentage of correct and incorrect predictions the model has made by class. Roughly 27% of on time flights are being classified as 'delayed', reflecting a Type I error (false positives). Over 22% of delayed flights are being classified as 'on time', a Type II error (false negatives). Over 77% of the on time flights are predicted correctly (true negatives) and almost 73% of the flights are correctly predicted 'delayed' (true positives). 
 
 <br/><br/>
 
