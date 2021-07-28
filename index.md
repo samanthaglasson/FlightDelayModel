@@ -45,9 +45,9 @@ Exploratory data analysis and data preprocessing performed in postgreSQL:
  
 Exploratory data analysis and data preprocessing performed in Jupyter Notebook:
 
-            - Encoded all categorical data using LabelEncoder. 
-            - Dropped redundant columns. 
-            - Created the target variable column, result15.
+- Encoded all categorical data using LabelEncoder. 
+- Dropped redundant columns. 
+- Created the target variable column, result15.
             
 <br/><br/>
 
