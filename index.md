@@ -136,6 +136,8 @@ As you can see, these steps were successful in balancing the data.
   <img width="500" height="450" src="https://user-images.githubusercontent.com/87782980/126912887-81b716e8-fbca-4291-94d5-bd4583c7d765.png">
 </p>
 
+The confusion matrix summarizes the percentage of correct and incorrect predictions the model has made by class. Roughly 27% of delayed flights are being classified as 'on time', reflecting a Type I error (false positives). Over 22% of on time flights are being classified as 'delayed', a Type II error (false negatives). Over 77% of the on time flights are predicted correctly (true negatives) and almost 73% of the flights are correctly predicted delayed (true positives). 
+
 <br/><br/>
 
  <div align="center"> Feature Importances </div>
