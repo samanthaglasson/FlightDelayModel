@@ -138,7 +138,7 @@ The confusion matrix summarizes the percentage of correct and incorrect predicti
   <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
 </p>
 
-The ROC curve is constructed by plotting the rate of true positives(TPR), or the proportion of flights that were correctly predicted positive out of all positive predictions, against the rate of false positives (FPR), or the proportion of observations that are incorrectly predicted positive out of all of the negative observations. The ROC curve shows the trade-off between sensitivity (or TPR) and specificity (1 – FPR). 
+The ROC curve shows the trade-off between sensitivity and specificity. The ROC curve is constructed by plotting the rate of true positives (TPR), or the proportion of flights that were correctly predicted positive out of all positive predictions (delays), against the rate of false positives (FPR), or the proportion of observations that are incorrectly predicted positive out of all of the negative observations (on time flights). 
 
 <br/><br/>
 
@@ -146,6 +146,8 @@ The ROC curve is constructed by plotting the rate of true positives(TPR), or the
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87782980/127233388-22aa2f9e-e5be-44d7-a2e3-c8a8ed83ae3d.png">
 </p>
+
+Feature importances give us insight on which features are more or less relevant to predicting the target variable.
 
 <br/><br/>
 
