@@ -122,14 +122,6 @@ As you can see, these steps were successful in balancing the data.
 
 <br/><br/>
 
- <div align="center"> ROC Curve </div>
- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
-</p>
-
-<br/><br/>
-
  <div align="center"> Confusion Matrix </div>
 
 <p align="center">
@@ -137,6 +129,16 @@ As you can see, these steps were successful in balancing the data.
 </p>
 
 The confusion matrix summarizes the percentage of correct and incorrect predictions the model has made by class. Roughly 27% of delayed flights are being classified as 'on time', reflecting a Type I error (false positives). Over 22% of on time flights are being classified as 'delayed', a Type II error (false negatives). Over 77% of the on time flights are predicted correctly (true negatives) and almost 73% of the flights are correctly predicted delayed (true positives). 
+
+<br/><br/>
+
+ <div align="center"> ROC Curve </div>
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87782980/127003149-1c7404ae-8dbc-4d5e-af73-b953c9d307c1.png">
+</p>
+
+The ROC curve is constructed by plotting the rate of true positives, or the proportion of flights that were correctly predicted positive out of all positive predictions, against the rate of false positives, or the proportiion of observations that are incorrectly predicted positive out of all of the negative observations. 
 
 <br/><br/>
 
