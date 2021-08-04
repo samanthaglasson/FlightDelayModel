@@ -15,6 +15,9 @@ When airlines are able to predict delays in advance they will have more time to 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View Model](https://flightdelays2015.herokuapp.com/)
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker Pull: docker pull samanthaglasson/flight_delay_image
+
 <br/><br/>
 
 ## Model Construction:
